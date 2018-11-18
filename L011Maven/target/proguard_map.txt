@@ -1,0 +1,6 @@
+Program -> a:
+    int MEASURE_COUNT -> a
+    void <init>() -> <init>
+    void main$3231c38a() -> a
+    void calcTime(java.lang.Runnable) -> a
+    void lambda$main$0(java.util.List,java.util.Collection) -> a
